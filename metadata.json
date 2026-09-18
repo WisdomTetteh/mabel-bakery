@@ -1,0 +1,6 @@
+{
+  "name": "Golden Loaf Bakery",
+  "description": "Authentic Ghanaian bakery website with fresh bread catalog, online cart, WhatsApp order system, and bakery dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
